@@ -1,5 +1,9 @@
+
 TITLE:2
+
+
 
 hello	
 
+alpho
 The repo is used to write down knowledeg of media .
